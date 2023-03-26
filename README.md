@@ -11,3 +11,4 @@ cd alfa-awus036ach-usb
 chmod +x alfa_awus036ach_usb
 sudo ./alfa_awus036ach_usb
 
+after script runs, unplug and plug back in wifi adapter.
