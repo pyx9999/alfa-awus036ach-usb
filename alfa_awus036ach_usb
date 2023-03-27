@@ -3,6 +3,6 @@
 #this is a script to add alfa wifi usb adapter awus036ach driver to linux mint
 #run with sudo
 
-echo | add-apt-repository ppa:kelebek333/kablosuz
+add-apt-repository ppa:kelebek333/kablosuz -y
 apt-get update
 apt install rtl8812au-dkms 
