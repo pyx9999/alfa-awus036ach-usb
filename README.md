@@ -11,7 +11,9 @@ commands to run ./alfa_awus036ach_usb
 git clone https://github.com/pyx9999/alfa-awus036ach-usb.git
 
 cd alfa-awus036ach-usb
+
 chmod +x alfa_awus036ach_usb
+
 sudo ./alfa_awus036ach_usb
 
 after script runs, unplug and plug back in wifi adapter.
