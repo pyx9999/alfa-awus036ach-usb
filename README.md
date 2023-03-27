@@ -8,7 +8,7 @@ dont forget to make executable (chmod +x alfa_awus036ach_usb) , and run with sud
 
 commands to run ./alfa_awus036ach_usb
 
-sudo apt install git && git clone https://github.com/pyx9999/alfa-awus036ach-usb.git
+git clone https://github.com/pyx9999/alfa-awus036ach-usb.git
 
 cd alfa-awus036ach-usb
 chmod +x alfa_awus036ach_usb
