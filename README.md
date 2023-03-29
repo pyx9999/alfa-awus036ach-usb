@@ -2,7 +2,7 @@
 this is a shell script to add alfa wifi usb adapter awus036ach driver to linux mint os using the apt package manager.
 
 
-you will still need Alfa AWUS036ACH wifi adapter if you are looking for a monitor mode wifi adapter and wireless adapter capable of injection.
+you will still need the Alfa AWUS036ACH wifi adapter if you are looking for a monitor mode wifi adapter and wireless adapter capable of injection.
 
 dont forget to make executable (chmod +x alfa_awus036ach_usb) , and run with sudo.
 
